@@ -1,0 +1,25 @@
+[debug] [2021-04-21T13:32:55.786Z] ----------------------------------------------------------------------
+[debug] [2021-04-21T13:32:55.794Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\lidij\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-04-21T13:32:55.795Z] CLI Version:   9.10.0
+[debug] [2021-04-21T13:32:55.795Z] Platform:      win32
+[debug] [2021-04-21T13:32:55.796Z] Node Version:  v14.16.1
+[debug] [2021-04-21T13:32:55.799Z] Time:          Wed Apr 21 2021 15:32:55 GMT+0200 (Central European Summer Time)
+[debug] [2021-04-21T13:32:55.800Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-04-21T13:32:55.835Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-04-21T13:32:55.835Z] > authorizing via signed-in user (goldblueoff@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\Coach finder vue app
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
